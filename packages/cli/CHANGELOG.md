@@ -1,5 +1,11 @@
 # mastra
 
+## 0.4.5-alpha.7
+
+### Patch Changes
+
+- 9f529a4: enable geoip in system properties for analytics
+
 ## 0.4.5-alpha.6
 
 ### Patch Changes
